@@ -1,0 +1,11 @@
+C:\Users\austin\source\repos\Assignment7\bin\Release\netcoreapp3.1\publish\Assignment7.dll
+C:\Users\austin\source\repos\Assignment7\bin\Release\netcoreapp3.1\publish\Assignment7.deps.json
+C:\Users\austin\source\repos\Assignment7\bin\Release\netcoreapp3.1\publish\Assignment7.runtimeconfig.json
+C:\Users\austin\source\repos\Assignment7\bin\Release\netcoreapp3.1\publish\Assignment7.pdb
+C:\Users\austin\source\repos\Assignment7\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+C:\Users\austin\source\repos\Assignment7\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.DynamoDBEvents.dll
+C:\Users\austin\source\repos\Assignment7\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.Json.dll
+C:\Users\austin\source\repos\Assignment7\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Users\austin\source\repos\Assignment7\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+C:\Users\austin\source\repos\Assignment7\bin\Release\netcoreapp3.1\publish\AWSSDK.DynamoDBv2.dll
+C:\Users\austin\source\repos\Assignment7\bin\Release\netcoreapp3.1\publish\Newtonsoft.Json.dll
